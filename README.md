@@ -1,1 +1,1 @@
-GithubPagesの使い方の確認
+GithubPagesの使い方やGithub上でのブランチの作成の確認
